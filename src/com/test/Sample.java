@@ -10,5 +10,9 @@ public class Sample {
 		System.out.println("kumar");
 
 	}
+	private void add2() {
+		System.out.println("0987");
+
+	}
 
 }
